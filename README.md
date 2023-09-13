@@ -18,8 +18,8 @@ End the for loop.
 
 ## Program:
 
-Developed By: S.THIRISHA
-Reg no: 212222230160
+Developed By: Gunaseelan G
+Reg no: 212221230031
 ```
 using System;
 namespace condition
@@ -57,7 +57,7 @@ namespace condition
 ```
 
 ## Output:
-![262405335-bcc34e6b-0d61-4b4e-bb2a-ea38a24562e1](https://github.com/Thirisha-s/C-Pattern/assets/120380280/883c5ce1-1f22-4d36-9d1f-47cb41e640d6)
+![pattern](https://github.com/Guru-Guna/C-Pattern/assets/93427255/13930931-b97c-44cc-85e7-75e9aa4c634c)
 
 ## Result:
 Thus the C# program to print the pascal's triangle is executed successfully.
