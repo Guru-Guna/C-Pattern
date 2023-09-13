@@ -8,13 +8,19 @@ Visual Studio
 
 ## Algorithm:
 Step 1:
-Create a class.
+Start the execution, create a class.
 
 Step 2:
-Use nested for loop.
+Declare the required integer variables.
 
-Step 3:
-End the for loop.
+Step 3 :
+Initialize the value of the variable as 0 for i and j.
+
+Step 4 :
+Enter the limits and initialize a for loop for the concept of pascal's triangle.
+
+Step 5 :
+Stop the execution..
 
 ## Program:
 
